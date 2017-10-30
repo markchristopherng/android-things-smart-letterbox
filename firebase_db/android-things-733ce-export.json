@@ -1,0 +1,11 @@
+{
+  "postboxes" : [ {
+    "address" : "1 collins st",
+    "degree" : "37.3C",
+    "lettercount" : 1
+  }, {
+    "address" : "111 bourke st",
+    "degree" : "36.5",
+    "lettercount" : 0
+  } ]
+}
